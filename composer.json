@@ -1,0 +1,9 @@
+{
+    "name": "antoniopapa/common",
+    "description": "Common libraries for Microservices",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^9.0@dev"
+    },
+    "minimum-stability": "dev"
+}
