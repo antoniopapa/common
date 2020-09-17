@@ -3,7 +3,6 @@
     "description": "Common libraries for Microservices",
     "type": "library",
     "require": {
-        "laravel/framework": "^7.*"
-    },
-    "minimum-stability": "dev"
+        "laravel/framework": "^7.0"
+    }
 }
